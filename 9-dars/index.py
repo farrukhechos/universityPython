@@ -48,5 +48,5 @@ from getopt import short_has_arg
 #     kichik = 1
 # else:
 #     kichik = 2
-# 
+#
 # print (f"{kichik }chi raqam kichik")
